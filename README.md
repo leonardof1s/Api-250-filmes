@@ -17,4 +17,4 @@ foi utilizado para este trabalho.
 
 .Api do Imdb-API
 
-.IDE Vs code
+.IDE Visual studio code
